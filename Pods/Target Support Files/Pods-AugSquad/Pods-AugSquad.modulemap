@@ -1,0 +1,6 @@
+framework module Pods_AugSquad {
+  umbrella header "Pods-AugSquad-umbrella.h"
+
+  export *
+  module * { export * }
+}
